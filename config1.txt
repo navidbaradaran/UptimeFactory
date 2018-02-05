@@ -1,0 +1,7 @@
+#config:name,destination_ip,protocol,port,send_pattern,response,interval;
+Web Server,honar8.com,TCP,80,GET / HTTP/1.0 \r\n\r\n,200 OK,5
+Ping Server,google.com,ICMP,,,,300
+Mail Server,gmail.com,TCP,220,,,10
+Ping Server 2,yahoo.com,ICMP,,,,30
+DNS Server,8.8.8.8,DNS,53,google.com,,300
+RDP Server,178.32.114.130,TCP,33096,,,300

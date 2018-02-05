@@ -1,0 +1,41 @@
+Web Server,True,1517657715
+Web Server,True,1517657747
+Ping Server,True,1517657748
+Mail Server,False,1517657749
+Ping Server 2,True,1517657750
+DNS Server,True,1517657750
+RDP Server,True,1517657750
+Web Server,True,1517657752
+Web Server,True,1517657758
+Mail Server,False,1517657758
+Web Server,True,1517657763
+Web Server,True,1517657768
+Mail Server,False,1517657769
+Web Server,True,1517657774
+Ping Server 2,True,1517657778
+Web Server,True,1517657780
+Mail Server,False,1517657780
+Web Server,True,1517657785
+Web Server,True,1517657791
+Mail Server,False,1517657791
+Web Server,True,1517657796
+Web Server,True,1517657802
+Mail Server,False,1517657802
+Web Server,True,1517657807
+Ping Server 2,True,1517657809
+Mail Server,False,1517657812
+Web Server,True,1517657813
+Web Server,True,1517657818
+Mail Server,False,1517657822
+Web Server,True,1517657824
+Web Server,True,1517657829
+Mail Server,False,1517657833
+Web Server,True,1517657835
+Ping Server 2,True,1517657840
+Web Server,True,1517657841
+Mail Server,False,1517657844
+Web Server,True,1517657847
+Web Server,True,1517657852
+Mail Server,False,1517657855
+Web Server,True,1517657858
+Web Server,True,1517657863
